@@ -21,6 +21,16 @@
       "organizer": "Fern Pollin"
     },
     {
+      "id": 520,
+      "category": "sustainability",
+      "title": "Beach BBQ",
+      "description": "Huge BBQ on the beach along the shore.",
+      "location": "Playa Del Carmen",
+      "date": "July 21, 2022",
+      "time": "19:00",
+      "organizer": "Marcellus Wallas"
+    },
+    {
       "id": 789,
       "category": "sustainability",
       "title": "Beach Cleanup",
